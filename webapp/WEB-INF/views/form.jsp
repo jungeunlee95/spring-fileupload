@@ -10,7 +10,7 @@
 <form method="post" action="upload" enctype="multipart/form-data">
 
 	<label>email:</label>
-	<input type="text" name="email" value="kickscar@gmail.com">
+	<input type="text" name="email" value="aaa@gmail.com">
 	<br><br>
 	
 	<label>파일1:</label>

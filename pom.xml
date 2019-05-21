@@ -5,15 +5,15 @@
 	<artifactId>emaillist3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-
+ 
 	<properties>
-		<org.springframework-version>4.0.4.RELEASE</org.springframework-version>
+		<org.springframework-version>4.3.1.RELEASE</org.springframework-version>
 		<jcloverslf4j.version>1.7.6</jcloverslf4j.version>		
 		<logback.version>1.1.1</logback.version>
 	</properties>
 
 	<dependencies>
-		<!-- spring -->
+		<!-- spring --> 
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
@@ -70,7 +70,7 @@
 	</dependencies>
 
 	<repositories>
-		<repository>
+		<repository> 
 			<id>oracle</id>
 			<name>ORACLE JDBC Repository</name>
 			<url>http://maven.jahia.org/maven2</url>
